@@ -1,6 +1,6 @@
 # JavaAPI
 
-This project uses Java, Spring, and JPA to make 2 API's available that retrieve data from a local instance of a postgres database given an input. 
+This project uses Java, Spring, and JPA to make 2 API's available that retrieve data from a local instance of a postgres database given an input. I followed a tutorial to practice creating Java API's using Spring. 
 
 To run this locally, first download postgres and set up a local instance of a database, change the application.properties file with your username/password, and then create a table called Person and add some dummy data to it. Here's the sql I used:
 
