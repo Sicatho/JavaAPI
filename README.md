@@ -16,3 +16,7 @@ TABLESPACE pg_default;
 
 ALTER TABLE public.person
     OWNER to postgres;
+    
+    
+    
+Here is how you can hit the endpoints using your browser: http://localhost:8080/getPersonByName?myName=usman and http://localhost:8080/getPersonByProfession?profession=engineer
